@@ -1,0 +1,28 @@
+{
+  "name": "zk-snake-game",
+  "version": "1.0.0",
+  "description": "A Snake game with Zero-Knowledge Proof verification on Succinct testnet",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -p 3000 -c-1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zero-knowledge",
+    "zk",
+    "snake",
+    "game",
+    "blockchain",
+    "ethereum",
+    "succinct",
+    "sp1"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.7.2"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
